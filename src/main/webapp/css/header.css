@@ -1,0 +1,173 @@
+@charset "UTF-8";
+
+body{
+	font-family: "游ゴシック",sans-serif;
+	margin:0;
+}
+
+.header{
+	width:100%;
+	height:150px;
+	
+	}
+	
+.header_top_bar{
+	width: 100%;
+	height: 30%;
+	background-color: cadetblue;
+	display: flex;
+}
+
+
+
+
+.header_top_nav{
+	width: 1200px;
+	height:100%;
+	background-color: cadetblue;
+	margin:0 auto;
+	display: flex;
+}
+
+.header_logo{
+	width:20%;
+	height:100%;
+	margin-left: 20px;
+}
+
+.title_logo{
+	width:auto;
+	height:90%;
+	
+	margin-top:2%;
+	margin-bottom:2%;
+	
+}
+
+.header_top_nav_list{
+	width: 35%;
+	min-width: 500px;
+	height: 100%;
+	margin-left:auto;
+	display: flex;
+	list-style: none;
+	
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.top_nav_litag{
+	height: 60%;
+	width:140px;
+	
+	margin: auto;
+	margin-left: 10;
+	margin-right: 10;
+	margin-bottom:0;
+	
+	font-size: 18px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+	
+}
+
+
+	
+
+
+
+
+.info_icon,.login_icon,.cart_icon{
+	width:20px;
+	height:20px;
+}
+
+
+
+.header_bottom_bar{
+	max-width: 1200px;
+	height:70%;
+	background-color: palegoldenrod;
+	width: 100%;
+	height: 70%;
+	margin:auto;
+	display: flex;
+}
+
+
+
+
+
+
+
+.header_bottom_nav{
+	width:100%;
+	height:100%;
+	background-color: lightslategray;
+}
+
+.header_bottom_nav_list{
+	height: 50%;
+	background-color: lightslategray;
+	display: flex;
+	
+	margin: 0;
+}
+
+.header_bottom_nav_litag{
+	font-size: 25px;
+	margin:0 auto;
+	align-self: center;
+	list-style: none;
+}
+
+.search_form_div{
+
+	height: 50%;
+	display: flex;
+	margin: 0;
+	
+}
+
+.search_form{
+	width:100%;
+	height:70%;
+	
+	align-self: center;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+
+.search{
+	width:70%;
+	height:70%;
+	
+	display: inline-block;
+	
+	
+	border-radius: 5px;
+}
+
+.submit{
+	height:70%;
+	margin: 10px;
+	border-radius: 5px;
+}
+
+.top_photo_content{
+	max-width:1200px;
+	height:auto;
+	
+	margin:0 auto;
+	background-color:white;
+	
+}
+
+.top_photo{
+	width:100%;
+	height:auto;
+}
+
+

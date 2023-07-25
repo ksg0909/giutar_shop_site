@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+main{
+	margin:auto;
+	
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+table{
+	margin:auto;
+	text-align: center;
+}
+
+.back{
+	margin:auto;
+	text-align: center;
+}

@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+main{
+	margin:auto;
+	
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+.ul{
+	margin:auto;
+	text-align: center;
+}
+
+table{
+	margin:auto;
+	text-align: center;
+}
+
+form{
+	margin:auto;
+	text-align: center;
+}
+
+.link{
+	margin:auto;
+	text-align: center;
+}
+
+.back{
+	margin:auto;
+	text-align: center;
+}
