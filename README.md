@@ -6,7 +6,7 @@
 プログラミング言語：java(ver,17)  
 フロントエンド：html,css  
 データベース：mysql(ver,8.0.32)  
-その他：Eclipse  
+その他：Eclipse,aws(デプロイの際使用)
 
 ## 機能一覧
 - 商品検索機能
