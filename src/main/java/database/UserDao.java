@@ -14,9 +14,9 @@ public class UserDao {
 
 	//定数定義
 	private final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-	private final String URL = "jdbc:mysql://localhost:3306/shop?userSSL=false";
+	private final String URL = "jdbc:mysql://guitarshopdb.cnxdndwifwma.us-east-1.rds.amazonaws.com:3306/shop?userSSL=false";
 	private final String USER = "root";
-	private final String PASSWORD = "root";
+	private final String PASSWORD = "rootroot";
 
 	//変数定義
 	private Connection con = null;
